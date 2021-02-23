@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1020087068003",
+    "project_id": "text-recognition-app-77bf7",
+    "storage_bucket": "text-recognition-app-77bf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020087068003:android:eb5ecf5d2ac3242be49f56",
+        "android_client_info": {
+          "package_name": "com.nhk.imagetotext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020087068003-irofplbucn46q96ehamjp4ufnnm3h3ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1M3C5MPvcMOvBJUJZI6WSqLBueFxvyhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020087068003-irofplbucn46q96ehamjp4ufnnm3h3ic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
